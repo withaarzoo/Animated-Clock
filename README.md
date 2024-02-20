@@ -34,7 +34,7 @@ The CSS file (`style.css`) provides the styles for the clock and its components.
 
 ## Credits
 
-This project was created by [Your Name] and is licensed under the [MIT License](LICENSE). Feel free to use and modify this code for your own projects. If you found it helpful, consider giving it a star on GitHub.
+This project was created by [Aarzoo](https://twitter.com/withaarzoo) and is licensed under the [MIT License](LICENSE). Feel free to use and modify this code for your projects. If you found it helpful, consider giving it a star on GitHub.
 
 ## License
 
