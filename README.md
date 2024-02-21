@@ -1,6 +1,6 @@
 # Animated Clock
 
-This project is a simple animated clock created using HTML and CSS. It displays an analog clock with rotating hour, minute, and second hands.
+This project is a simple animated clock created using HTML and CSS. It displays an analog clock with rotating hour, minute, and second hands .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Clock/assets/59678435/b7a94667-e10c-4d6a-bf8e-b9f4bedddaf7)
